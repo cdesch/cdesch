@@ -95,8 +95,8 @@
 <p>
 <a href="https://github.com/cdesch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdesch&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdesch&theme=radical&layout=compact&exclude_lang=java+r+MATLAB" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdesch&theme=radical&layout=compact&langs_count=8&hide=MATLAB,html" />
 </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdesch&layout=compact&langs_count=8&hide=matlab,objective-c,html)](https://github.com/cdesch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdesch&layout=compact&langs_count=8&hide=matlab,html)](https://github.com/cdesch/github-readme-stats)
