@@ -33,9 +33,8 @@
 
 ### Frameworks/Libraries:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square)
-
-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square) -
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -70,9 +69,7 @@
   
 ### Dev Tools:
 
-![IDE](https://img.shields.io/badge/-IDE-Blue?style=flat-square)
-
-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![RubyMine](https://img.shields.io/badge/RubyMine-000000.svg?style=flat-square&logo=Ruby&logoColor=white&color=black&labelColor=crimson)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=white&color=black)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
