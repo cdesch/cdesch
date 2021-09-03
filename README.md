@@ -47,15 +47,15 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 
-![Ruby](https://img.shields.io/badge/-Ruby-Red?style=flat-square)
+![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square)
 
 - ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
 
-![Elixir](https://img.shields.io/badge/-Elixir-Purple?style=flat-square)
+![Elixir](https://img.shields.io/badge/-Elixir-purple?style=flat-square)
 
 - ![Phoenix Framework](https://img.shields.io/badge/phoenix_framework-black?style=flat-square&logo=elixir&logoColor=orange)
 
-![Web](https://img.shields.io/badge/-Web-Blue?style=flat-square)
+![Web](https://img.shields.io/badge/-Web-blue?style=flat-square)
 
 - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
@@ -66,7 +66,7 @@
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-Black?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
   
 ### Dev Tools:
 
