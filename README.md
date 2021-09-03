@@ -99,4 +99,4 @@
 </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdesch&layout=compact&langs_count=8&hide=matlab,html)](https://github.com/cdesch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdesch&layout=compact&langs_count=8&hide=matlab,objective-c,html)](https://github.com/cdesch/github-readme-stats)
