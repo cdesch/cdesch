@@ -33,7 +33,7 @@
 
 ### Frameworks/Libraries:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square) -
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square) |
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
