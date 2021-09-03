@@ -92,11 +92,10 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 ## My Stats
+
 <p>
 <a href="https://github.com/cdesch">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdesch&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdesch&layout=compact&langs_count=8&hide=matlab,html" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdesch&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdesch&layout=compact&langs_count=8&hide=matlab,html&theme=tokyonight" />
 </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdesch&layout=compact&langs_count=8&hide=matlab,html)](https://github.com/cdesch/github-readme-stats)
