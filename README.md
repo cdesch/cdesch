@@ -95,7 +95,7 @@
 <p>
 <a href="https://github.com/cdesch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdesch&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdesch&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdesch&theme=radical&layout=compact&exclude_lang=java+r+MATLAB" />
 </a>
 </p>
 
