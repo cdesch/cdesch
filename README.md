@@ -48,7 +48,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 
-![Phoenix Framework](https://img.shields.io/badge/elixir-black?style=flat-square&logo=elixir&logoColor=orange)
+![Phoenix Framework](https://img.shields.io/badge/phoenix-framework-black?style=flat-square&logo=elixir&logoColor=orange)
 
 ### Software:
 
