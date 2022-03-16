@@ -12,6 +12,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=Ruby&logoColor=red)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust&logoColor=red)
 ![Elixir](https://img.shields.io/badge/elixir-black?style=flat-square&logo=elixir&logoColor=purple)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
